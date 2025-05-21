@@ -5,3 +5,5 @@ Tech Stack React.js – Frontend library for building UI JavaScript (JSX) – La
 Features Real-time search across all columns ⬆️⬇️ Sortable columns Pagination to navigate through data Clean and responsive UI styled via index.css
 
 Dataset Static data is imported from a data.json file located in the assets/ folder.
+Screenshot
+![image](https://github.com/user-attachments/assets/3bf5e8aa-90d6-4f70-8064-1c5fc014e244)
