@@ -1,17 +1,7 @@
-<<<<<<< HEAD
-# React + Vite
+This React project displays an interactive employee table with advanced features like search, column sorting, and pagination, built using the powerful react-table library.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tech Stack React.js – Frontend library for building UI JavaScript (JSX) – Language used with React react-table – For table functionalities (sorting, pagination) CSS – For custom styling JSON – Static dataset for demonstration
 
-Currently, two official plugins are available:
+Features Real-time search across all columns ⬆️⬇️ Sortable columns Pagination to navigate through data Clean and responsive UI styled via index.css
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# abc-table
-chjnxm
->>>>>>> 458925d3a8ee8f91ea1c3788c2114e482429f2c2
+Dataset Static data is imported from a data.json file located in the assets/ folder.
