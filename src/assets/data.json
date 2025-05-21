@@ -1,0 +1,29 @@
+{
+    "data":[
+  { "id": 1, "name": "Rahul", "gender": "Male", "salary": 50000 },
+  { "id": 2, "name": "Anjali", "gender": "Female", "salary": 52000 },
+  { "id": 3, "name": "Amit", "gender": "Male", "salary": 48000 },
+  { "id": 4, "name": "Sneha", "gender": "Female", "salary": 55000 },
+  { "id": 5, "name": "Karan", "gender": "Male", "salary": 51000 },
+  { "id": 6, "name": "Pooja", "gender": "Female", "salary": 60000 },
+  { "id": 7, "name": "Vikram", "gender": "Male", "salary": 47000 },
+  { "id": 8, "name": "Megha", "gender": "Female", "salary": 53000 },
+  { "id": 9, "name": "Ravi", "gender": "Male", "salary": 62000 },
+  { "id": 10, "name": "Divya", "gender": "Female", "salary": 59000 },
+  { "id": 11, "name": "Sahil", "gender": "Male", "salary": 61000 },
+  { "id": 12, "name": "Nikita", "gender": "Female", "salary": 56000 },
+  { "id": 13, "name": "Raj", "gender": "Male", "salary": 58000 },
+  { "id": 14, "name": "Shreya", "gender": "Female", "salary": 57000 },
+  { "id": 15, "name": "Arjun", "gender": "Male", "salary": 55000 },
+  { "id": 16, "name": "Neha", "gender": "Female", "salary": 64000 },
+  { "id": 17, "name": "Manish", "gender": "Male", "salary": 63000 },
+  { "id": 18, "name": "Priya", "gender": "Female", "salary": 60000 },
+  { "id": 19, "name": "Rohit", "gender": "Male", "salary": 52000 },
+  { "id": 20, "name": "Tanya", "gender": "Female", "salary": 58000 },
+  { "id": 21, "name": "Deepak", "gender": "Male", "salary": 49000 },
+  { "id": 22, "name": "Isha", "gender": "Female", "salary": 51000 },
+  { "id": 23, "name": "Ankur", "gender": "Male", "salary": 54000 },
+  { "id": 24, "name": "Ritika", "gender": "Female", "salary": 65000 },
+  { "id": 25, "name": "Suresh", "gender": "Male", "salary": 50000 }
+]
+}

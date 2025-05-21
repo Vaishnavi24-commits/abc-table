@@ -1,0 +1,92 @@
+ody {
+  background-color: #344876; 
+  color: #e2e8f0; 
+  font-family: 'poppins', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  background-color: #6f8ab4; 
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #637ea9; 
+  border-radius: 8px;
+  overflow: hidden;
+  color: #e2e8f0; 
+}
+
+thead {
+  background-color: #496181;
+}
+
+th, td {
+  padding: 14px 20px;
+  text-align: left;
+  border-bottom: 1px solid #475569; 
+  font-size: 15px;
+}
+
+th {
+  cursor: pointer;
+  user-select: none;
+}
+
+th span {
+  margin-left: 8px;
+  font-size: 14px;
+}
+
+tbody tr:hover {
+  background-color: #475569; 
+  transition: background-color 0.2s ease;
+}
+
+button {
+  background-color: #334155; 
+  color: #e2e8f0; 
+  padding: 10px 16px;
+  margin: 10px 8px 0 0;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover:not(:disabled) {
+  background-color: #475569; 
+  
+}
+
+button:disabled {
+  background-color: #1e293b; 
+  color: #94a3b8; 
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.search-input {
+  width: 100%;
+  padding: 8px 12px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  color: #333;
+}
+
+.search-input::placeholder {
+  color: #888;
+}
+
+.search-input:focus {
+  border-color: #666;
+  outline: none;
+}
